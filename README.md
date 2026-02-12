@@ -102,6 +102,6 @@ Macroeconomic indicator integration
 
 Cloud deployment (Streamlit Cloud / AWS)
 
-his project demonstrates the practical integration of **Finance + Artificial Intelligence + Data Visualization** into a single analytical dashboard.
+This project demonstrates the practical integration of **Finance + Artificial Intelligence + Data Visualization** into a single analytical dashboard.
 
-It is built for **educational, research, and demonstration purposes**.
+It is built for **educational and research purposes**.
