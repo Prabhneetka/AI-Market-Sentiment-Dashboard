@@ -2,7 +2,7 @@
 
 An AI-driven financial analytics dashboard built using **Python and Streamlit** that combines stock market data, technical indicators, and AI-powered news sentiment analysis to help users make informed investment decisions.
 
-Network URL: http://192.168.29.59:8501
+URL: http://192.168.29.59:8501
 
 🚀 Project Overview
 
