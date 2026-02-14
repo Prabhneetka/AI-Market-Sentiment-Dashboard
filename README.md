@@ -7,42 +7,42 @@ An AI-driven financial analytics dashboard built using **Python and Streamlit** 
 
 The AI-Powered Market Sentiment & Investment Dashboard is an interactive web application that integrates:
 
-- 📊 Real-time stock price visualization  
-- 📈 Technical indicators (Moving Averages)  
-- 📰 Financial news aggregation  
-- 🤖 AI-based sentiment analysis  
-- 📉 Market trend insights  
+- Real-time stock price visualization  
+- Technical indicators (Moving Averages)  
+- Financial news aggregation  
+- AI-based sentiment analysis  
+- Market trend insights  
 
 This project demonstrates the practical integration of **Finance + Artificial Intelligence + Data Visualization** into a single decision-support system.
 
  🎯 Features
 
- 📊 1. Stock Price Visualization
+  1. Stock Price Visualization
 - Displays last 3 months of historical stock data
 - Interactive and dynamic charts
 - Trend analysis using closing prices
 
- 📈 2. Technical Indicators
+  2. Technical Indicators
 - Simple Moving Average (SMA)
 - Price trend comparison
 - Visual buy/sell signal interpretation
 
-📰 3. AI-Powered News Sentiment Analysis
+ 3. AI-Powered News Sentiment Analysis
 - Fetches latest news related to selected stock
 - Uses NLP model to classify sentiment:
-  - ✅ Positive
-  - ❌ Negative
-  - ➖ Neutral
+  - Positive
+  - Negative
+  - Neutral
 - Generates overall sentiment score
 
-💻 4. Interactive Dashboard
+4. Interactive Dashboard
 - Built with Streamlit
 - Clean, user-friendly UI
 - Real-time stock ticker selection
 
 ---
 
-🛠️ Tech Stack
+ Tech Stack
 
 - Python  
 - Streamlit  
